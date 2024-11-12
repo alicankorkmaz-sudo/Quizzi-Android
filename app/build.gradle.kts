@@ -46,7 +46,7 @@ android {
             buildConfigField(
                 "String",
                 "BASE_URL",
-                "\"wss://flagquiz-server-production.up.railway.app\""
+                "\"wss://quizzi-production-16a0.up.railway.app\""
             )
         }
         create("dev") {
